@@ -11,7 +11,7 @@ tags:
 
 ## 1 前言
 
-目前，我的 [个人网站](https://rainmic1019.github.io/) 是基于 [VuePress](https://www.vuepress.cn/) 搭建的，其中 VuePress 内置的搜索只会提取文档的标题（h1、h2、h3）构建搜索索引，我个人觉得不太好用，因此想借助第三方提供的免费搜索服务 Algolia DocSearch 来实现个人网站的全文搜索。
+目前，我的 [个人网站](https://liuyuxin.site/) 是基于 [VuePress](https://www.vuepress.cn/) 搭建的，其中 VuePress 内置的搜索只会提取文档的标题（h1、h2、h3）构建搜索索引，我个人觉得不太好用，因此想借助第三方提供的免费搜索服务 Algolia DocSearch 来实现个人网站的全文搜索。
 
 ## 2 Algolia
 
@@ -246,4 +246,4 @@ VuePress 提供了一种添加额外样式的简便方法。我们可以创建�
 
 Algolia DocSearch 可以说真的跟官网描述一样，算是目前构建可在线搜索文档的最简单的方式之一了。我们只需要关注文档本身，进行少量的配置，其它的 Algolia 全包了。另外，Algolia 还有一些其它优秀产品及服务，感兴趣的也可以前往官网自行探索。
 
-本文以自己的 [个人网站](https://rainmic1019.github.io/) 为例，但 Algolia DocSearch 适合很多类型的网站，更方便的是许多网站构建器本身就内置了对 Algolia 的支持，比如 Hexo、 VuePress、Docusaurus 等等。
+本文以自己的 [个人网站](https://liuyuxin.site/) 为例，但 Algolia DocSearch 适合很多类型的网站，更方便的是许多网站构建器本身就内置了对 Algolia 的支持，比如 Hexo、 VuePress、Docusaurus 等等。

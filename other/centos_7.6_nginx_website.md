@@ -1,5 +1,5 @@
 ---
-title: CentOS 7.6基于Nginx静态服务器搭建搭建个人网站
+title: CentOS 7.6基于Nginx静态服务器搭建个人网站
 date: 2022-09-14
 categories:
  - 其他
