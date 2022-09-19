@@ -30,6 +30,7 @@ isShowComments: false
 
 ### 2.2 程序设计
 
+- [C++并发与多线程笔记六：单例模式下的数据共享](./programDesign/cpp_multithreading_6.md)；
 - [C++并发与多线程笔记五：unique_lock详解](./programDesign/cpp_multithreading_5.md)；
 - [C++并发与多线程笔记四：互斥量(概念、用法、死锁)](./programDesign/cpp_multithreading_4.md)；
 - [C++并发与多线程笔记三：数据共享](./programDesign/cpp_multithreading_3.md)；
