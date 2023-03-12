@@ -11,7 +11,7 @@ tags:
 
 ## 1 前言
 
-本文接上文 [C++并发与多线程笔记六：单例模式下的数据共享](./cpp_multithreading_6.md) 的内容，主要纪录条件变量std::condition_variable、wait、notify_one、notify_all 概念以及用法。
+本文接上文 [C++并发与多线程笔记六：单例模式下的数据共享](./cpp_multithreading_6.md) 的内容，主要记录条件变量std::condition_variable、wait、notify_one、notify_all 概念以及用法。
 
 ## 2 条件变量 std::condition_variable、wait、notify_one
 
