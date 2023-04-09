@@ -30,6 +30,7 @@ isShowComments: false
 
 ### 2.2 程序设计
 
+- [C++并发与多线程笔记八：async、future、packaged_task、promise](./programDesign/cpp_multithreading_8.md)；
 - [C++并发与多线程笔记七：condition_variable、wait、notify_one/all](./programDesign/cpp_multithreading_7.md)；
 - [C++并发与多线程笔记六：单例模式下的数据共享](./programDesign/cpp_multithreading_6.md)；
 - [C++并发与多线程笔记五：unique_lock详解](./programDesign/cpp_multithreading_5.md)；
