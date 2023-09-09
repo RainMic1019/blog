@@ -34,24 +34,16 @@ keys:
 
 ## 2 快速使用
 
-:cat: Clash 订阅地址：
+:cat: **Clash 订阅地址：**[templateId=1](https://api.inforun.work/v1/service/10044587?hmac=91C3894F7AFE60108566632FE3F3ADF9BCFD9907CFDCC0E1CD1BF987FE3DABB3&lang=&templateId=1)
 
-:::tip
-https://api.inforun.work/v1/service/10044587?hmac=91C3894F7AFE60108566632FE3F3ADF9BCFD9907CFDCC0E1CD1BF987FE3DABB3&lang=&templateId=1
-:::
+:rocket: **Shadowrocket 订阅地址：**[templateId=4](https://api.inforun.work/v1/service/10044587?hmac=91C3894F7AFE60108566632FE3F3ADF9BCFD9907CFDCC0E1CD1BF987FE3DABB3&lang=&templateId=4)
 
-:rocket: Shadowrocket 订阅地址：
-
-:::tip
-https://api.inforun.work/v1/service/10044587?hmac=91C3894F7AFE60108566632FE3F3ADF9BCFD9907CFDCC0E1CD1BF987FE3DABB3&lang=&templateId=4
-:::
-
-:package: 启动 sing-box 的 Git Bash 命令：
+:package: **启动 sing-box 的 Git Bash 命令：**
 
 ```bash
 bash <(curl -ksSL https://repo.o2cdn.icu/cached-apps/sing-box/singbox.sh || curl -ksSL https://ghproxy.com/https://raw.githubusercontent.com/caocaocc/installers/main/singbox.sh) "https://api.inforun.work/v1/service/10044587?hmac=91C3894F7AFE60108566632FE3F3ADF9BCFD9907CFDCC0E1CD1BF987FE3DABB3&lang=&templateId=26"
 ```
 
-> 注：sing-box 启动成功后的前往 [控制面版](http://127.0.0.1:9090) 选择代理节点。
+> 注：sing-box 启动成功后的前往控制面版 [http://127.0.0.1:9090](http://127.0.0.1:9090) 选择代理节点。
 
-:apple: 购买 IOS 美区 ID：[羊王商店](https://id.wohaobang.cn)，主要用于安装 Shadowrocket。
+:apple: **购买 IOS 美区 ID：**[羊王商店](https://id.wohaobang.cn)，主要用于安装 Shadowrocket。
