@@ -6,6 +6,7 @@ categories:
 tags:
  - 学习富强
 publish: false
+isShowComments: false
 keys:
  - '6b9b6d4c6631de42fcd8a82cd1b5816b'
 ---
@@ -13,14 +14,15 @@ keys:
 ## 1 简介
 
 :::tip
+**官方网站**：[auVPN](https://auvpn.net)
+
 帐号 **2024/10/12** 到期，预计前一周续期。
 :::
 
-**官方网站**：https://auvpn.net
-
 > 备用域名：
-> 1. ausu.mom
-> 2. ausu.lol
+> 1. auvpn.net
+> 2. ausu.mom
+> 3. ausu.lol
 
 ::: theorem 个人中心
 1. 个人中心链接不要外发，如果重制了记得告诉我再发一遍。
@@ -34,11 +36,15 @@ keys:
 
 :cat: Clash 订阅地址：
 
+:::tip
 https://api.inforun.work/v1/service/10044587?hmac=91C3894F7AFE60108566632FE3F3ADF9BCFD9907CFDCC0E1CD1BF987FE3DABB3&lang=&templateId=1
+:::
 
 :rocket: Shadowrocket 订阅地址：
 
+:::tip
 https://api.inforun.work/v1/service/10044587?hmac=91C3894F7AFE60108566632FE3F3ADF9BCFD9907CFDCC0E1CD1BF987FE3DABB3&lang=&templateId=4
+:::
 
 :package: 启动 sing-box 的 Git Bash 命令：
 
@@ -46,6 +52,6 @@ https://api.inforun.work/v1/service/10044587?hmac=91C3894F7AFE60108566632FE3F3AD
 bash <(curl -ksSL https://repo.o2cdn.icu/cached-apps/sing-box/singbox.sh || curl -ksSL https://ghproxy.com/https://raw.githubusercontent.com/caocaocc/installers/main/singbox.sh) "https://api.inforun.work/v1/service/10044587?hmac=91C3894F7AFE60108566632FE3F3ADF9BCFD9907CFDCC0E1CD1BF987FE3DABB3&lang=&templateId=26"
 ```
 
-> 注：启动 sing-box 后的控制面版：http://127.0.0.1:9090
+> 注：sing-box 启动成功后的前往 [控制面版](http://127.0.0.1:9090) 选择代理节点。
 
-:apple: 购买 IOS 美区 ID：https://id.wohaobang.cn
+:apple: 购买 IOS 美区 ID：[羊王商店](https://id.wohaobang.cn)，主要用于安装 Shadowrocket。
