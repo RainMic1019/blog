@@ -1,3 +1,9 @@
+---
+title: 最新动态
+publish: false
+isShowComments: false
+---
+
 # 最新动态
 
 2024/10/03
