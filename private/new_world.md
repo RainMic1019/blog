@@ -17,14 +17,15 @@ keys:
 
 **官方网站**：[auVPN](https://auvpn.net)
 
-帐号 **2024/10/12** 到期，预计前一周续期。
+帐号 **2025/10/12** 到期，预计前一周续期。
 
 :::
 
 > 备用域名：
 > 1. auvpn.net
-> 2. ausu.mom
-> 3. ausu.lol
+> 2. ccjj.sbs
+> 3. auua.sbs
+> 4. auua.us
 
 ::: theorem 个人中心
 
@@ -32,7 +33,18 @@ keys:
 2. 如果个人中心无法正常访问可以切备用域名试试，或者搭建桥梁后重试。
 
 ::: right
-前往 [个人中心](https://auvpn.net/zh-CN/user/service/91020?uuid=b8fb3d3c-f70c-40d6-ba0f-e60b57c12e56&hmac=02b1159b0a77548810e76758334f49fee28e36bbaafd4df831d9da455856361c)
+前往 [个人中心](https://ccjj.sbs?uuid=b8fb3d3c-f70c-40d6-ba0f-e60b57c12e56&hmac=02b1159b0a77548810e76758334f49fee28e36bbaafd4df831d9da455856361c)
+:::
+
+:::warning
+
+注意：目前 auVPN 主要支持的运用商有**电信、联通、移动**，*不支持广电*！！！
+
+> 另外，移动如果无法正常使用，请尝试设置 DNS 为 223.6.6.6，备用 DNS 119.29.29.29：
+> 
+> 1. 教程1：https://www.zhihu.com/question/491671085/answer/2165836459
+> 2. 教程2： https://jingyan.baidu.com/article/3d69c55191a9c0b1cf02d784.html
+
 :::
 
 ## 2 快速使用
@@ -133,7 +145,7 @@ bash <(curl -ksSL https://repo.o2cdn.icu/cached-apps/sing-box/singbox.sh || curl
 
 ::: theorem 步骤一：下载安装
 
-[Clash Meta APK 下载](../../package/ClashMetaSetup-x64.zip)
+[Clash Meta APK 下载](../../package/cmfa.apk)
 
 :::
 
